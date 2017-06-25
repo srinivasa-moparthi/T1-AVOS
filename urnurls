@@ -1,0 +1,4 @@
+ae:base-uri=http://zltv9991.vci.att.com:7613
+ae:internal-reporting=http://zltv9991.vci.att.com:7603/activevos/internalreports
+ae:services:JSON=http://zltv9991.vci.att.com:7603/active-bpel/services/${urn.3}/${urn.4}
+ae:services:REST=	http://zltv9991.vci.att.com:7603/active-bpel/services/${urn.6}/${urn.4
